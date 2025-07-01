@@ -1,16 +1,40 @@
-## Hi there 👋
+# سلام، من آزاده هستم 👋
 
-<!--
-**azadehabolhabib/azadehabolhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+من یک توسعه‌دهنده فرانت‌اند با تمرکز روی React و JavaScript هستم.  
+علاقه‌مند به ساخت برنامه‌های وب کاربردی، تمیز و کاربرپسند.
 
-Here are some ideas to get you started:
+## مهارت‌ها
+- JavaScript (ES6+)
+- React (Hooks, Router)
+- HTML5 & CSS3
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## پروژه‌ها
+- [اپلیکیشن مدیریت کارها - Todo List](https://github.com/azadehabolhabib/todo-list)  
+- (در حال اضافه کردن پروژه‌های بیشتر...)
+
+## ارتباط با من
+- [LinkedIn](https://linkedin.com/in/azadehabolhabib)  
+- [ایمیل](mailto:abolhabib1365@gmail.com)
+
+---
+
+# Hi, I'm Azadeh 👋
+
+I'm a frontend developer focused on React and JavaScript.  
+Passionate about building clean, functional, and user-friendly web applications.
+
+## Skills
+- JavaScript (ES6+)
+- React (Hooks, Router)
+- HTML5 & CSS3
+- Git & GitHub
+
+## Projects
+- [Todo List App](https://github.com/azadehabolhabib/todo-list) - Task management app built with React  
+- (Adding more projects soon...)
+## contact Me
+- [LinkedIn](https://linkedin.com/in/azadehabolhabib)  
+- [Email](mailto:abolhabib1365@gmail.com)
+
+)
