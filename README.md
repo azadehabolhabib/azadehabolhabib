@@ -10,7 +10,8 @@
 - Git & GitHub
 
 ## پروژه‌ها
-- [اپلیکیشن مدیریت کارها - Todo List](https://github.com/azadehabolhabib/todo-list)  
+- [اپلیکیشن مدیریت کارها - Todo List](https://github.com/azadehabolhabib/Todo-List)-
+- [اپلیکیشن مدیریت کارها  با react ری اکت- Todo List](https://github.com/azadehabolhabib/react-todolist-app)  
 - (در حال اضافه کردن پروژه‌های بیشتر...)
 
 ## ارتباط با من
@@ -31,8 +32,10 @@ Passionate about building clean, functional, and user-friendly web applications.
 - Git & GitHub
 
 ## Projects
-- [Todo List App](https://github.com/azadehabolhabib/todo-list) - Task management app built with React  
+- [Todo List App](https://github.com/azadehabolhabib/todo-list) -
+- - [Todo List App](- https://github.com/azadehabolhabib/react-todolist-app) -  Task management app built with React  
 - (Adding more projects soon...)
+  
 ## contact Me
 - [LinkedIn](https://linkedin.com/in/azadehabolhabib)  
 - [Email](mailto:abolhabib1365@gmail.com)
